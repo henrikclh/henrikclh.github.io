@@ -1,7 +1,7 @@
 # Hello blog
 
 This is my first post 打中文亦可
-Thanks to Jeremy Howard I'm trying to use [fast-page](https://www.fast.ai/posts/2019-05-13-blogging-advice.html) for blogging.
+Thanks to Jeremy Howard I'm trying to use [fast-page](https://www.fast.ai/posts/2020-01-16-fast_template.html) and [advice](https://www.fast.ai/posts/2019-05-13-blogging-advice.html) for blogging.
 
 I will continue testing along the [mark down cheat sheet](https://www.markdownguide.org/cheat-sheet/) such as *italics*, **bold** and `code font text`.
 
