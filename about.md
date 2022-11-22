@@ -1,4 +1,3 @@
-# About
+# HenrikCLH
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Henrik Cheung Lok Hang (RIBA Part 2) was born and based in Hong Kong, founded AND Studio in 2017 for practice and creativity exercises.
