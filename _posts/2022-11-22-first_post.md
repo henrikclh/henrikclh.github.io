@@ -12,23 +12,19 @@ Also quotation such as:
 ## Trying to 'type' code
 
 ```python
-# Prints '2'
 # Prints 'Hello Henrik'
-print(1+1)
 print('Hello Henrik')
 ```
-
-    2
     Hello Henrik
 
-## Make a table
+## Trying to make a table (contextualise HCI)
 
 | | Human | Computer | Interaction |
 |-|-|-|-|
 |definition| Designers & Users | Architecture | Conversation |
 |R. Qs/Es| Experiment | Technical parameters | Theoretical framework |
 
-## Notes and footnotes
+## Trying to make footnotes
 Inspirations and intuition comes from Architects[^1], Engineers[^2], Mathematicians[^3], great people[^4] (actively/passively) breathing in real world AI situation, and magicians [^5] who have been experimenting on human's perception, and of course, amazing comedians[^6] who can always look from differen perspectives, and more.
 
 [^1]: Gordon Pask, Cedric Price, Nicholas Negropronte, John Frazer
