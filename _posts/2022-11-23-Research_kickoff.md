@@ -5,8 +5,11 @@ Inspired by cyberneticians especially *Gordon Pask*, HCI in **architecture**,
 
 > Technology is the answer, but what was the question?[^1]
 
+
 ## Interest and and motivation
-Interest_ interactive architecture
+
+Interest_ (truly) interactive architecture
+
 Motivation_ tame the dilemma and gaps between technological research and practice scenario
 
 
