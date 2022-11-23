@@ -1,4 +1,4 @@
-# First post
+# Research kickoff
 
 This is my first post 打中文亦可
 Thanks to Jeremy Howard I'm trying to use [fast-page](https://www.fast.ai/posts/2020-01-16-fast_template.html) and [advice](https://www.fast.ai/posts/2019-05-13-blogging-advice.html) for blogging.
@@ -9,15 +9,7 @@ Also quotation such as:
 > beauty is the purgation of superfluities
 
 
-## Trying to 'type' code
-
-```python
-# Prints 'Hello Henrik'
-print('Hello Henrik')
-```
-    Hello Henrik
-
-## Trying to make a table (contextualise HCI)
+## Contextualise HCI
 
 | | Human | Computer | Interaction |
 |-|-|-|-|
