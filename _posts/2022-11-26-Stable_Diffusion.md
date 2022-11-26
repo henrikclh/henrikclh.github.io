@@ -6,15 +6,22 @@ Attempted to test on local jupyter notebook but too many hardware problems... Th
 
 Looking forward to slowly continuing the stable diffusion course! (probably after digesting the NLP notebook, which potentially much more related to own research)
 Below are some extracted results. (tested prompts are variations of my master final year project, interestingly, throughout the final year. These ideas came up at different times... Although it didn't like the [final design](http://www.presidentsmedals.com/Entry-53841))
-![Just varying prompts](images/Slide1.JPG)
-![Played with classifer-free guidance and negative prompt](images/Slide2.JPG)
 
+![Just varying prompts](/images/Slide1.JPG)
+![Played with classifer-free guidance and negative prompt](/images/Slide2.JPG)
 
-![01](images/01.png)
-![02](images/02.png)
-![03](images/03.png)
-![04](images/04.png)
-![05](images/05.png)
-![06](images/06.png)
-![07](images/07.png)
-![08](images/08.png)
+![01](/images/01.png)
+
+![02](/images/02.png)
+
+![03](/images/03.png)
+
+![04](/images/04.png)
+
+![05](/images/05.png)
+
+![06](/images/06.png)
+
+![07](/images/07.png)
+
+![08](/images/08.png)
