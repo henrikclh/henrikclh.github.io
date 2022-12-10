@@ -4,6 +4,7 @@ Mainly following [Fast.ai course](https://course.fast.ai/) lesson 1 and 2 by Jer
 It is encouraging that Jeremy Howard explicitly mentioned:
 
 *Here’s a few things you absolutely don’t need to do world-class deep learning:*
+
 | **Myth(don't need)** | **Truth** |
 | - | - |
 | Lots of math | Just high school math is sufficient |
@@ -28,7 +29,8 @@ Things I am curious but lower priority...
 - how to display explanable ai
 
 ## Lesson 2, learnt to deploy a model (make 'codes' into an app)  
-[Cat or dog?](https://huggingface.co/spaces/henrikclh/test1)
+Deployed a trained model prepared by the course via huggingface [Cat or dog?](https://huggingface.co/spaces/henrikclh/test1)
+
 Throughout the process, I learnt to set up Linux environment (mainly for git pushing via huggingface)
 
 Things I am curious but lower priority...
