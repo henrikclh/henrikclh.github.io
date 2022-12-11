@@ -1,4 +1,4 @@
-# First try on [Stable diffusion](https://forums.fast.ai/t/lesson-9-part-2-preview/101336))
+# First try on [Stable diffusion](https://forums.fast.ai/t/lesson-9-part-2-preview/101336)
 
 Tested a bit following [Jeremy Howard's fast AI course Part 2.](https://www.youtube.com/watch?v=_7rMfsA24Ls)
 
