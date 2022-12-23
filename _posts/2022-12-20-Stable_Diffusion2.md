@@ -3,7 +3,7 @@
 Continuing on the last try on stable diffusion, I was thinking 'how can I use it in a design process?".
 Instead of typing prompts to generate images, a designer might more likely to start designing by sketches!
 
-Therefore, I tried to simplify and tweak [Fasti.ai version](https://colab.research.google.com/drive/1TFRk0U3BsefwpYlGSZfQmfXY3ZM2B34h?usp=sharing) for such purpose.
+Therefore, I tried to simplify and tweak [Fast.ai version](https://colab.research.google.com/drive/1TFRk0U3BsefwpYlGSZfQmfXY3ZM2B34h?usp=sharing) for such purpose.
 
 
 ## Step 1. Upload own sketch (or image found online)
