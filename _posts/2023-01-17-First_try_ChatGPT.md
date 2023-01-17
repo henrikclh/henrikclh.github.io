@@ -7,7 +7,7 @@ Learn the basic training method of ChatGPT by Hong-yi Lee
 
 [![](https://markdown-videos.deta.dev/youtube/e0aKI2GGZNg)](https://www.youtube.com/watch?v=e0aKI2GGZNg)
 
-Export the record by[ChatGPT Exporter](https://github.com/TheLatestNow/chatgpt-exporter/blob/master/README.md) 
+Export the record by [ChatGPT Exporter](https://github.com/TheLatestNow/chatgpt-exporter/blob/master/README.md) 
 
 [How to embed youtube video on Markdown](https://stackoverflow.com/questions/69326962/insert-embeded-youtube-video-in-markdown-vs-code)
 
