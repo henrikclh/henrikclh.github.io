@@ -19,3 +19,5 @@
 [Hi-Picture Amplifier](http://store.aunbox.cn/hiphotobig?from=mp)
 
 [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+
+![Slides](/images/20241128 AI Learning Day_Henrik.pdf)
