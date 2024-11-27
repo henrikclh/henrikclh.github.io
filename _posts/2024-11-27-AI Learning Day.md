@@ -20,4 +20,4 @@
 
 [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 
-![Slides](/images/20241128 AI Learning Day_Henrik.pdf)
+[Presentation slides](/images/20241128 AI Learning Day_Henrik.pdf)
