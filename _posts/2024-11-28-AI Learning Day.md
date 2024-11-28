@@ -1,5 +1,7 @@
 # AI Learning Day
 
+28 Nov 2024
+
 ## AI as a Reading and Poster Design Partner ##
 
 ### Part 1: AI as a reading partner ###
