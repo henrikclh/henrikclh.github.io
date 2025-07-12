@@ -16,6 +16,6 @@ Pilot study 2 (why transformer) - [NNJ 2024](https://link.springer.com/article/1
 
 ### Case studies
 
-Case study 3: [SigraDi 2024]([https://link.springer.com/book/9789819507597](https://www.researchgate.net/publication/386429978_Bridging_Bio-inspiration_and_Technology_The_Synthesis_of_Structural_AirWebs_via_AI_Integration))
+Case study 3: [SigraDi 2024](https://www.researchgate.net/publication/386429978_Bridging_Bio-inspiration_and_Technology_The_Synthesis_of_Structural_AirWebs_via_AI_Integration)
 
 Case study 4: [In-press](https://link.springer.com/book/9789819507597)
