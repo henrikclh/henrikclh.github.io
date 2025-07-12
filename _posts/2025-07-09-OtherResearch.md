@@ -1,3 +1,5 @@
+# Other research / practice
+
 ### (AI-enhanced) Performative design
 
 Preparation - [CAADRIA 2025](https://www.researchgate.net/publication/389754720_The_Impact_of_Natural_Ventilation_on_Building_Form_Optimisation_for_Energy_Efficiency_A_comparative_study_of_surface-to-volume_ratio_with_and_without_natural_ventilation)
