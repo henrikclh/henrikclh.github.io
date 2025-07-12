@@ -8,7 +8,8 @@ Preparation - [CAADRIA 2025](https://www.researchgate.net/publication/389754720_
 ### AI-enhanced research methods
 
 AI-information searching - [Chaoxing](https://lib.xjtlu.edu.cn/node/1751)
-LibAI promption - [LibAI]()
+
+Library AI - WIP
 
 ### AI-enhanced fabrication
 
