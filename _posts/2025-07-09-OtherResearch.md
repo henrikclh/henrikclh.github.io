@@ -13,3 +13,10 @@ Chaoxing Cup - [Chaoxing](https://lib.xjtlu.edu.cn/node/1751)
 LLM-3DCP 1 - [eCAADe 2025](https://www.researchgate.net/publication/391848317_Multimodal_Large_Language_Models_for_Adaptive_3D_Concrete_Printing)
 
 LLM-3DCP 2 - [IASS 2025](https://www.researchgate.net/publication/393164965_Real-Time_Defect_Detection_Analysis_and_Suggestion_in_Adaptive_3D_Concrete_Printing_via_Multimodal_LLM_Integration)
+
+
+### Practice
+
+2023 - [CGYS](https://henrikclh.com/2023/08/20/CGYS2023.html)
+
+2023 - [HKU Hornell](https://henrikclh.com/2023/09/23/HKUH2023.html)
