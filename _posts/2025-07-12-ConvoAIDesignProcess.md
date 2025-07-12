@@ -3,7 +3,7 @@
 ### Research background
 Conversational AI under pandemics of today's AI - [xArch 2023](https://link.springer.com/chapter/10.1007/978-981-97-0621-1_2)
 
-Conversational AI in architecture - [RaM](https://henrikclh.com/2023/04/25/RaM2023.html)
+Conversational AI in architecture - [RaM 2023](https://henrikclh.com/2023/04/25/RaM2023.html)
 
 
 ### Initial studies
